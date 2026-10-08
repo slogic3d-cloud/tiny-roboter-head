@@ -1,0 +1,5 @@
+Screen: 6,70€
+ESP-32-C3-SUPER-MINI: 8,99€
+
+volume: 15,69€
+volume in Dollar: 17 Dollar and 55 Cent
